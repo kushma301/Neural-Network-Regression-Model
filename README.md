@@ -86,10 +86,12 @@ def train_model(nethraa_brain, X_train, y_train, criterion, optimizer, epochs=20
 ```
 ## Dataset Information
 
+<img width="196" height="351" alt="546198423-81525732-5cf7-433b-9b70-56cd7cf89865" src="https://github.com/user-attachments/assets/e5099449-a17c-4ff8-996a-35a3baead34c" />
 
 
 ## OUTPUT
 
+<img width="686" height="555" alt="546203150-a4845d31-00fe-48da-b18f-7d15bd9459c4" src="https://github.com/user-attachments/assets/080e2a13-091d-448e-9877-f2aec3a58398" />
 
 
 ### New Sample Data Prediction
